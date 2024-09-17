@@ -118,43 +118,43 @@ np.mean(predict(res.x,X)==y)
 
 ## Output:
 
-# Array Value of x : -
+## Array Value of x : -
 
 ![arrayvalueofx](https://github.com/user-attachments/assets/151f6381-9b61-491f-81c7-3e3945ea0b1e)
 
-# Array Value of y : -
+## Array Value of y : -
 
 ![arrayvalueofy](https://github.com/user-attachments/assets/85b56c96-d346-4bee-b6e4-5a40b6b46691)
 
-# Exam 1 - Score Graph : -
+## Exam 1 - Score Graph : -
 
 ![exam1score](https://github.com/user-attachments/assets/e2807fa2-6d09-4395-ba99-be7d65980bc3)
 
-# Sigmoid function graph : -
+## Sigmoid function graph : -
 
 ![sigmodfunctiongraph](https://github.com/user-attachments/assets/4b969238-bd0d-4640-94bf-5a5e3e3490ae)
 
-# X train grad value : -
+## X train grad value : -
 
 ![xtraingradgraph](https://github.com/user-attachments/assets/de2244f4-414a-4b4f-bf79-61a58d3dd44e)
 
-# Y train grad value : -
+## Y train grad value : -
 
 ![ytraingradgraph](https://github.com/user-attachments/assets/1ce36482-e206-4bd9-b26e-7b9da5d1e524)
 
-# print res.x : -
+## print res.x : -
 
 ![res x](https://github.com/user-attachments/assets/42c32c1a-194a-4edd-b8a7-c386dd51e0f7)
 
-# Decision Boundary - Graph for Exam Score : -
+## Decision Boundary - Graph for Exam Score : -
 
 ![decisionboundary](https://github.com/user-attachments/assets/ae215975-6271-4aab-a87f-b2e67b8f3559)
 
-# Probability Value : -
+## Probability Value : -
 
 ![probabilityvalue](https://github.com/user-attachments/assets/2603edd7-9fb3-473e-91fe-81a824c309fe)
 
-# Prediction value of Mean : -
+## Prediction value of Mean : -
 
 ![predictionvalueofmean](https://github.com/user-attachments/assets/1139c85e-5a74-4d17-b5fb-7b86e1ddf6ba)
 
